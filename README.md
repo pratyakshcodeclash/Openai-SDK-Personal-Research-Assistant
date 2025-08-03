@@ -104,7 +104,7 @@ Contributions welcome! Feel free to open issues or pull requests to improve the 
 
 Enjoy building your personal research assistant! — Pratyakshcodeclash
 
-🎨 API Key Format (example for learning/demonstration only)
+🎨 API Key 
 
 sk‑4X8kLm56ZqR901Abcd23EFG45hi6789JKLM
 This placeholder follows the typical OpenAI API key pattern: sk- followed by ~44 alphanumeric characters.
